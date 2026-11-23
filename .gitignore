@@ -1,0 +1,27 @@
+# 设计稿 / 客户文件一律不入库
+*.pdf
+*.png
+*.jpg
+*.jpeg
+*.ai
+*.cdr
+*.psd
+*.tif
+*.tiff
+
+# 运行产物
+output/
+*_校对/
+profiles/
+
+# 依赖与运行时
+runtime/
+fonts/
+.venv/
+venv/
+__pycache__/
+*.pyc
+
+# 系统
+.DS_Store
+Thumbs.db
