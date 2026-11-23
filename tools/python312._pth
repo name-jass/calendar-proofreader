@@ -1,5 +1,3 @@
-@echo off
-rem 让这个便携 Python 认识 Lib\site-packages（否则 pip 装的东西 import 不到）
 python312.zip
 .
 Lib\site-packages
